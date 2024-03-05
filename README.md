@@ -1,1 +1,2 @@
-# HR_Data_Analysis
+# HR_Data_Analysis_ Dashboard
+The HR Data Analysis dashboard using Power BI gives comprehensive overview of various HR metrics and key performance indicators (KPIs) to help HR professionals and decision-makers gain insights into their workforce. In this project i cleaned the data It includes visualizations such as employee Attrition , Attrition rates, Avg salary of the empolyee, performance evaluations, and employee satisfaction surveys. The dashboard allows users to drill down into specific data points, filter information based on various criteria, and track trends over time, enabling informed decision-making and strategic planning in human resource management.
